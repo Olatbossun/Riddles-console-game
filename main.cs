@@ -55,6 +55,16 @@ switch (answer1)
             score1 += 5;
             break;
         }
+case "a palm tree":
+        {
+            score1 += 5;
+            break;
+        }
+  case "palmtree":
+        {
+            score1 += 5;
+            break;
+        }
     case "palm":
         {
             score1 += 5;
@@ -88,6 +98,12 @@ switch (answer2)
             score2 += 5;
             break;
         }
+    case "a compass":
+        {
+            score2 += 5;
+            break;
+        }
+  
     default:
         score2 += 0;
         break;
@@ -105,6 +121,16 @@ double score3 = 0;
 switch (answer3)
 {
     case "by adding g":
+        {
+            score3 += 5;
+            break;
+        }
+case "by adding letter g":
+        {
+            score3 += 5;
+            break;
+        }
+case "add letter g":
         {
             score3 += 5;
             break;
@@ -247,6 +273,11 @@ switch (answer7)
             score7 += 5;
             break;
         }
+case "a candlestick":
+        {
+            score7 += 5;
+            break;
+        }
     default:
         score7 += 0;
         break;
@@ -297,6 +328,16 @@ switch (answer9)
             break;
         }
     case "are you asleep yet?":
+        {
+            score9 += 5;
+            break;
+        }
+case "are you sleeping?":
+        {
+            score9 += 5;
+            break;
+        }
+  case "are you asleep?":
         {
             score9 += 5;
             break;
@@ -357,6 +398,11 @@ switch (answer11)
             score11 += 5;
             break;
         }
+case "in the dictionary":
+        {
+            score11 += 5;
+            break;
+        }
     default:
         score11 += 0;
         break;
@@ -397,7 +443,7 @@ Console.WriteLine("Total score: {0}", score);
 Console.ReadLine();
 
 //question 14
-Console.WriteLine("NO 14  - Remove my skin and i won't cry but you might?");
+Console.WriteLine("NO 14  - Remove my skin and i won't cry but you might, what am i?");
 Console.Write("Answer: ");
 string answer13 = Console.ReadLine();
 double score13 = 0;
@@ -410,6 +456,11 @@ switch (answer13)
             break;
         }
     case "onion":
+        {
+            score13 += 5;
+            break;
+        }
+case "an onion":
         {
             score13 += 5;
             break;

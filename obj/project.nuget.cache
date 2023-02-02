@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4MuLvktA4ErZZ5T4klwTjzb+nkj1PyyXhOEH6z/3rVAFl9bYJ4oMRQMkZR3geWTV18wpesb1GxWbuAsklshFWQ==",
+  "dgSpecHash": "BG6x3bw1Lk291MgvzyuDrzetKiQZs0BqYJ+MDi0z/U8uijD5Kjt11bknIys8eviu5pgvpZbo1zfUSNj0RSLkbg==",
   "success": true,
-  "projectFilePath": "/home/runner/Riddles-console-game/main.csproj",
+  "projectFilePath": "/home/runner/Riddles/main.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/runner/Riddles-console-game/main.csproj",
+      "projectUniqueName": "/home/runner/Riddles/main.csproj",
       "projectName": "main",
-      "projectPath": "/home/runner/Riddles-console-game/main.csproj",
+      "projectPath": "/home/runner/Riddles/main.csproj",
       "packagesPath": "/home/runner/.nuget/packages/",
-      "outputPath": "/home/runner/Riddles-console-game/obj/",
+      "outputPath": "/home/runner/Riddles/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/runner/.nuget/NuGet/NuGet.Config"
